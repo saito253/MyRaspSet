@@ -1,0 +1,1863 @@
+# この viminfo ファイルは Vim 7.4 によって生成されました.
+# 変更する際には十分注意してください!
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/IV
+
+# 最後の Substitute 検索パターン:
+~MSle0&BufferedReader
+
+# 最後に置換された文字列:
+$
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q!
+:.,.+1!':q!
+:.,.+1!
+:VST
+:pwd
+:wq
+:w
+:144
+:33
+:cd driver/LazDriver_rev2/
+:bd
+:$
+:NERDTree
+:NERDT
+:date
+::NERDTree
+:NerdTree
+:NeoBundle 'scrooloose/nerdtree'
+:Explore
+:NEADTree
+:q
+:::
+:NERDTreeToggle
+:NeoBundleInstall
+:'<,'>
+:Nerdtree
+::w
+:cd develop/LazuriteInstaller/
+:14
+:s
+:cd rpi
+:cd
+:!
+:vs ~/java/LazuriteJava/lib/com/lapis_semi/lazurite/io/jexe
+:vs Makefile
+:make install
+:cpoen
+:SubGHzEvent
+:vs ~/LazGem/lib/LazGem/device.rb
+:vs
+:vs sample_raw2.java
+:a
+:vs Raw.java
+:vs CtrlDeviceList.java
+:wa
+:'<,'>q
+:%s/BufferedReader/PipedReader/g
+:w sample_serial2.java
+:set ws
+:vs sample_serial.java
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/hdmi
+?/IV
+?/compa
+?/ii
+?/start
+?/keyword
+?/spidev0
+?/keyworkd
+?/keyworkd2
+?/vv
+?/bp
+?/bp35
+?/compan
+?/spp
+?/spidev
+?/compatible
+?/spi
+?/spide
+?/bcm2708.dtsi
+?/dev0
+?/AES
+?/aes
+?/parse_data
+?/is_rx_
+?/is_rx_data
+?/parse
+?/SAMODE
+?/print
+?/Succ
+?/module
+?/Success to load SubGHz module
+?/setAes
+?/key
+?/aes_work
+?/chr_to_hex
+?/key_chr
+?/chardev_ioctl
+?/chardev_open
+?/PAD
+?/HDMI
+?/SET_AES
+?/Aes
+?/42
+?/+=
+?/for
+?/memcpy
+?/chr_to
+?/hex_to
+?/tmp
+?/aes_key
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""0	LINE	0
+	gateway 192.168.42.1
+"1	LINE	0
+	|  |- start_x.elf
+"2	LINE	0
+	|- boot/
+"3	LINE	0
+	|- boot.bak/
+"4	LINE	0
+	/
+"5	LINE	0
+	" ? : toggle long help
+	
+	.. (up a directory)
+	/home/ {{{
+	`- pi/ }}}
+	
+"6	LINE	0
+	|- pi/
+"7	LINE	0
+	/home/
+"8	LINE	0
+	" ? : toggle long help
+	
+	.. (up a directory)
+	/home/pi/ {{{
+	|- Desktop/
+	|- Documents/
+	|- Downloads/
+	|- Music/
+	|- Pictures/
+	|- Public/
+	|- Templates/
+	|- Videos/
+	|- develop/
+	|- driver/
+	|- java/
+	|- linux -> /home/pi/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/
+	|- linux-c2a1d975537fcac01da80ce34f10bc491620a64e/
+	|- linux-c2a1d975537fcac01da80ce34f10bc491620a64e.tar.gz
+	|- node_modules/
+	|- python_games/
+	`- test920j/ }}}
+	
+"9	LINE	0
+	|- test920j/
+"-	CHAR	0
+	：
+
+# ファイルマーク:
+'0  1  0  ~/NERD_tree_1
+'1  6  0  ~/TreeExplorer
+'2  29  0  ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+'3  27  0  ~/test920j/main.rb
+'4  44  0  ~/test920j/rf_test/rftest.rb
+'5  36  23  ~/test920j/rf_test/rftest.rb
+'6  20  0  /etc/network/interfaces
+'7  1  0  ~/.vimrc
+'8  82  19  ~/TreeExplorer
+'9  115  0  ~/TreeExplorer
+
+# ジャンプリスト (新しいものが先):
+-'  1  0  ~/NERD_tree_1
+-'  7  0  ~/NERD_tree_1
+-'  6  0  ~/TreeExplorer
+-'  32  0  ~/TreeExplorer
+-'  50  0  ~/TreeExplorer
+-'  1  0  ~/TreeExplorer
+-'  2  0  ~/TreeExplorer
+-'  29  0  ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+-'  49  62  ~/driver/LazDriver_rev2/subghz_api.c
+-'  184  0  ~/driver/LazDriver_rev2/drv-lazurite.c
+-'  144  48  ~/driver/LazDriver_rev2/CTI/core/ml7396.h
+-'  1  0  ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+-'  27  0  ~/test920j/main.rb
+-'  1  0  ~/test920j/main.rb
+-'  44  0  ~/test920j/rf_test/rftest.rb
+-'  1  0  ~/test920j/rf_test/rftest.rb
+-'  36  23  ~/test920j/rf_test/rftest.rb
+-'  20  0  /etc/network/interfaces
+-'  1  0  /etc/network/interfaces
+-'  1  0  ~/.vimrc
+-'  82  19  ~/TreeExplorer
+-'  70  0  ~/TreeExplorer
+-'  73  0  ~/TreeExplorer
+-'  88  0  ~/TreeExplorer
+-'  92  0  ~/TreeExplorer
+-'  99  0  ~/TreeExplorer
+-'  115  0  ~/TreeExplorer
+-'  121  0  ~/TreeExplorer
+-'  124  0  ~/TreeExplorer
+-'  139  0  ~/TreeExplorer
+-'  143  0  ~/TreeExplorer
+-'  150  0  ~/TreeExplorer
+-'  1  0  ~/driver/LazDriver/subghz_api.c
+-'  1  0  ~/driver/LazDriver/.git/MERGE_MSG
+-'  20  0  ~/NERD_tree_1
+-'  38  2  ~/NERD_tree_1
+-'  1  0  ~/develop/LazuriteInstaller/install.sh
+-'  6  0  ~/Desktop/レセプタクル評価.txt
+-'  14  0  ~/Desktop/レセプタクル評価.txt
+-'  1  0  ~/Desktop/レセプタクル評価.txt
+-'  1  0  ~/develop/myDotFiles/setup.sh
+-'  1  0  ~/develop/LazuriteGraph/Graph.ini
+-'  70  0  ~/NERD_tree_1
+-'  93  2  ~/NERD_tree_1
+-'  100  0  ~/NERD_tree_1
+-'  117  2  ~/NERD_tree_1
+-'  1  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  74  0  ~/.vimrc
+-'  38  0  ~/.vimrc
+-'  174  2  ~/NERD_tree_1
+-'  1  0  ~/NERD_tree_2
+-'  59  2  ~/NERD_tree_2
+-'  42  0  ~/.vimrc
+-'  45  0  ~/.vimrc
+-'  15  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  37  0  ~/.vimrc
+-'  34  8  ~/.vimrc
+-'  33  14  ~/.vimrc
+-'  75  0  ~/.vimrc
+-'  35  0  ~/.vimrc
+-'  27  0  ~/.vimrc
+-'  39  0  ~/develop/LazuriteInstaller/.git/COMMIT_EDITMSG
+-'  1  0  ~/develop/LazuriteInstaller/.git/COMMIT_EDITMSG
+-'  15  0  ~/develop/LazuriteInstaller/.git/COMMIT_EDITMSG
+-'  21  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  30  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  22  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  24  0  ~/develop/LazuriteInstaller/LazCnv.awk
+-'  4  5  ~/develop/LazuriteInstaller/cnv.awk
+-'  29  30  ~/develop/LazuriteInstaller/cnv.awk
+-'  28  33  ~/develop/LazuriteInstaller/cnv.awk
+-'  27  11  ~/develop/LazuriteInstaller/cnv.awk
+-'  6  4  ~/develop/LazuriteInstaller/cnv.awk
+-'  34  0  ~/develop/LazuriteInstaller/cnv.awk
+-'  25  8  ~/develop/LazuriteInstaller/cnv.awk
+-'  10  22  ~/develop/LazuriteInstaller/cnv.awk
+-'  7  4  ~/develop/LazuriteInstaller/cnv.awk
+-'  24  0  ~/develop/LazuriteInstaller/cnv.awk
+-'  26  30  ~/develop/LazuriteInstaller/cnv.awk
+-'  6  0  ~/TreeExplorer
+-'  32  0  ~/TreeExplorer
+-'  50  0  ~/TreeExplorer
+-'  1  0  ~/TreeExplorer
+-'  2  0  ~/TreeExplorer
+-'  29  0  ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+-'  49  62  ~/driver/LazDriver_rev2/subghz_api.c
+-'  184  0  ~/driver/LazDriver_rev2/drv-lazurite.c
+-'  144  48  ~/driver/LazDriver_rev2/CTI/core/ml7396.h
+-'  1  0  ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+-'  27  0  ~/test920j/main.rb
+-'  1  0  ~/test920j/main.rb
+-'  44  0  ~/test920j/rf_test/rftest.rb
+-'  1  0  ~/test920j/rf_test/rftest.rb
+-'  36  23  ~/test920j/rf_test/rftest.rb
+-'  20  0  /etc/network/interfaces
+-'  1  0  /etc/network/interfaces
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/NERD_tree_1
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/TreeExplorer
+	"	6	0
+	.	31	0
+	+	211	0
+	+	191	0
+	+	167	0
+	+	166	0
+	+	184	0
+	+	181	0
+	+	149	0
+	+	142	0
+	+	138	0
+	+	123	0
+	+	120	0
+	+	98	0
+	+	91	0
+	+	87	0
+	+	72	0
+	+	69	0
+	+	2	0
+	+	2	0
+	+	49	0
+	+	31	0
+
+> /boot/config.txt
+	"	31	0
+	.	31	0
+	+	30	0
+	+	30	0
+	+	31	0
+
+> ~/driver/LazDriver_rev2/CTI/api/bp3596.c
+	"	29	0
+
+> ~/driver/LazDriver_rev2/TreeExplorer
+	"	19	10
+	.	10	0
+	+	30	0
+	+	20	0
+	+	18	0
+	+	10	0
+
+> ~/driver/LazDriver_rev2/CTI/core/ml7396.h
+	"	144	48
+
+> ~/driver/LazDriver_rev2/drv-lazurite.c
+	"	184	0
+
+> ~/driver/LazDriver_rev2/subghz_api.c
+	"	49	62
+
+> ~/test920j/main.rb
+	"	27	0
+	^	13	22
+	.	20	0
+	+	22	13
+	+	3	0
+	+	6	0
+	+	3	0
+	+	17	0
+	+	8	0
+	+	9	0
+	+	10	6
+	+	17	0
+	+	11	41
+	+	16	0
+	+	13	7
+	+	16	3
+	+	13	6
+	+	15	6
+	+	16	0
+	+	19	0
+	+	14	11
+	+	27	2
+	+	22	0
+	+	11	40
+	+	17	73
+	+	13	42
+	+	13	39
+	+	14	0
+	+	13	20
+	+	13	0
+	+	13	40
+	+	12	20
+	+	13	12
+	+	13	5
+	+	17	0
+	+	20	0
+	+	20	0
+	+	13	8
+	+	13	0
+	+	20	0
+
+> ~/test920j/rf_test/rftest.rb
+	"	44	0
+	^	14	1
+	.	4	0
+	+	38	1
+	+	39	1
+	+	41	1
+	+	32	2
+	+	33	2
+	+	34	2
+	+	35	2
+	+	36	2
+	+	37	2
+	+	38	2
+	+	41	2
+	+	10	0
+	+	44	7
+	+	44	8
+	+	9	0
+	+	9	0
+	+	43	0
+	+	44	0
+	+	44	0
+	+	31	15
+	+	44	0
+	+	31	5
+	+	9	5
+	+	8	8
+	+	31	15
+	+	41	0
+	+	39	2
+	+	41	0
+	+	39	2
+	+	41	18
+	+	9	0
+	+	9	0
+	+	9	0
+	+	6	0
+	+	8	0
+	+	6	0
+	+	9	0
+	+	9	0
+	+	5	9
+	+	41	0
+	+	40	13
+	+	3	0
+	+	5	0
+	+	3	17
+	+	106	9
+	+	15	0
+	+	14	10
+	+	17	1
+	+	22	1
+	+	23	1
+	+	24	1
+	+	25	1
+	+	26	1
+	+	27	1
+	+	28	1
+	+	29	1
+	+	16	1
+	+	17	1
+	+	18	1
+	+	19	1
+	+	20	1
+	+	21	1
+	+	22	1
+	+	23	1
+	+	24	1
+	+	25	1
+	+	26	1
+	+	27	1
+	+	28	1
+	+	106	10
+	+	14	5
+	+	5	0
+	+	8	0
+	+	14	7
+	+	4	0
+	+	7	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	44	0
+	+	46	0
+	+	48	0
+	+	50	0
+	+	52	0
+	+	54	0
+	+	56	0
+	+	58	0
+	+	60	0
+	+	62	0
+	+	64	0
+	+	15	0
+	+	4	0
+
+> /etc/network/interfaces
+	"	20	0
+	.	20	0
+	+	13	0
+	+	22	0
+	+	20	0
+	+	21	0
+	+	20	0
+
+> ~/.vimrc
+	"	1	0
+	^	77	24
+	.	77	23
+	+	18	12
+	+	7	0
+	+	24	27
+	+	79	6
+	+	79	0
+	+	24	0
+	+	79	0
+	+	35	33
+	+	29	0
+	+	24	0
+	+	79	0
+	+	34	0
+	+	35	0
+	+	79	0
+	+	79	0
+	+	37	41
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	73	18
+	+	42	0
+	+	74	0
+	+	73	0
+	+	74	0
+	+	74	0
+	+	64	0
+	+	79	0
+	+	79	0
+	+	76	24
+	+	78	0
+	+	77	23
+
+> ~/driver/LazDriver/CTI/api/aes.c
+	"	650	0
+	^	657	76
+	.	657	75
+	+	57	0
+	+	61	0
+	+	65	0
+	+	58	0
+	+	60	0
+	+	575	101
+	+	534	101
+	+	575	0
+	+	576	0
+	+	575	2
+	+	576	101
+	+	535	0
+	+	534	2
+	+	535	101
+	+	642	83
+	+	657	75
+
+> ~/driver/LazDriver/subghz_api.c
+	"	1	0
+	^	777	17
+	.	777	7
+	+	41	0
+	+	30	0
+	+	41	0
+	+	29	0
+	+	28	0
+	+	388	0
+	+	389	0
+	+	379	0
+	+	385	0
+	+	384	18
+	+	385	0
+	+	385	0
+	+	384	0
+	+	798	1
+	+	798	9
+	+	52	78
+	+	52	9
+	+	798	0
+	+	384	0
+	+	385	0
+	+	384	33
+	+	398	25
+	+	471	5
+	+	52	0
+	+	51	21
+	+	471	0
+	+	470	1
+	+	440	0
+	+	439	1
+	+	422	0
+	+	383	1
+	+	410	1
+	+	376	1
+	+	410	0
+	+	411	0
+	+	383	0
+	+	375	0
+	+	376	3
+	+	780	0
+	+	777	7
+
+> ~/driver/LazDriver/.git/MERGE_MSG
+	"	1	0
+
+> ~/develop/LazuriteInstaller/install.sh
+	"	1	0
+
+> ~/NERD_tree_2
+	"	12	0
+	.	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+
+> ~/develop/myDotFiles/setup.sh
+	"	1	0
+
+> ~/develop/LazuriteGraph/Graph.ini
+	"	1	0
+
+> ~/develop/LazuriteInstaller/LazCnv.awk
+	"	27	21
+	.	21	0
+	+	13	30
+	+	11	38
+	+	22	1
+	+	24	0
+	+	11	0
+	+	18	0
+	+	6	1
+	+	6	0
+	+	7	0
+	+	6	0
+	+	6	14
+	+	7	3
+	+	6	0
+	+	13	0
+	+	11	0
+	+	9	90
+	+	11	0
+	+	17	6
+	+	23	20
+	+	24	29
+	+	25	33
+	+	26	32
+	+	29	37
+	+	22	0
+	+	24	0
+	+	9	0
+	+	10	98
+	+	8	79
+	+	5	0
+	+	3	3
+	+	5	3
+	+	2	8
+	+	2	0
+	+	4	3
+	+	5	0
+	+	3	28
+	+	4	0
+	+	3	28
+	+	12	11
+	+	13	5
+	+	4	74
+	+	7	16
+	+	8	64
+	+	9	93
+	+	10	0
+	+	12	15
+	+	13	0
+	+	24	0
+	+	22	0
+	+	30	0
+	+	30	23
+	+	30	0
+	+	30	53
+	+	24	0
+	+	22	0
+	+	24	0
+	+	30	0
+	+	21	0
+	a	7	55
+
+> ~/develop/LazuriteInstaller/.git/COMMIT_EDITMSG
+	"	39	0
+	.	39	0
+	+	2	0
+	+	2	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	3	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	15	0
+	+	2	0
+	+	3	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	8	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	23	0
+	+	24	0
+	+	25	0
+	+	26	0
+	+	27	0
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	33	0
+	+	34	0
+	+	35	0
+	+	36	0
+	+	37	0
+	+	38	0
+	+	39	0
+
+> ~/develop/LazuriteInstaller/setup.sh
+	"	4	30
+	^	10	5
+	.	4	0
+	+	22	0
+	+	23	0
+	+	23	0
+	+	11	0
+	+	12	0
+	+	11	23
+	+	12	18
+	+	13	19
+	+	14	20
+	+	15	20
+	+	16	20
+	+	17	23
+	+	18	23
+	+	20	0
+	+	20	0
+	+	19	23
+	+	20	18
+	+	21	19
+	+	11	48
+	+	12	35
+	+	13	37
+	+	14	39
+	+	15	39
+	+	16	39
+	+	17	45
+	+	18	45
+	+	19	45
+	+	20	35
+	+	21	36
+	+	8	34
+	+	12	0
+	+	12	17
+	+	13	18
+	+	14	19
+	+	15	19
+	+	16	19
+	+	17	22
+	+	18	22
+	+	19	22
+	+	20	17
+	+	21	18
+	+	22	0
+	+	11	2
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	20	0
+	+	19	0
+	+	21	0
+	+	22	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	10	28
+	+	10	0
+	+	9	0
+	+	4	0
+	+	9	5
+	+	10	4
+	+	4	0
+
+> ~/develop/LazuriteInstaller/rpi/bcm2708-rpi-b.dts
+	"	57	0
+
+> ~/develop/LazuriteInstaller/cnv.awk
+	"	4	5
+	^	4	6
+	.	4	5
+	+	18	0
+	+	18	0
+	+	17	21
+	+	18	21
+	+	20	24
+	+	17	34
+	+	8	21
+	+	8	0
+	+	8	7
+	+	8	0
+	+	9	0
+	+	4	1
+	+	4	23
+	+	4	0
+	+	4	79
+	+	4	6
+	+	4	1
+	+	4	1
+	+	4	7
+	+	4	0
+	+	4	0
+	+	4	6
+	+	22	0
+	+	24	0
+	+	4	6
+	+	8	23
+	+	8	26
+	+	25	0
+	+	8	0
+	+	7	0
+	+	25	20
+	+	26	0
+	+	25	0
+	+	4	33
+	+	4	49
+	+	4	4
+	+	4	0
+	+	4	0
+	+	4	0
+	+	5	7
+	+	6	0
+	+	25	20
+	+	26	37
+	+	7	10
+	+	7	10
+	+	25	20
+	+	26	37
+	+	7	11
+	+	7	11
+	+	7	16
+	+	10	29
+	+	7	0
+	+	7	0
+	+	7	11
+	+	30	27
+	+	7	0
+	+	7	0
+	+	6	0
+	+	29	13
+	+	6	11
+	+	30	26
+	+	25	24
+	+	26	41
+	+	10	32
+	+	7	0
+	+	25	13
+	+	26	38
+	+	25	22
+	+	26	41
+	+	7	0
+	+	5	5
+	+	6	0
+	+	25	0
+	+	24	20
+	+	25	0
+	+	13	0
+	+	14	0
+	+	24	0
+	+	6	8
+	+	30	24
+	+	6	0
+	+	6	0
+	+	25	0
+	+	24	21
+	+	25	0
+	+	6	9
+	+	30	25
+	+	24	21
+	+	25	0
+	+	6	0
+	+	27	11
+	+	28	33
+	+	29	0
+	+	2	32
+	+	2	33
+	+	2	99
+	+	3	1
+	+	6	19
+	+	3	2
+	+	4	5
+
+> ~/develop/LazuriteInstaller/rpi/aa
+	"	68	16
+
+> ~/develop/LazuriteInstaller/rpi/bcm2708-rpi-p.dts
+	"	5	0
+	^	5	0
+	.	4	3
+	+	4	3
+
+> ~/develop/LazuriteInstaller/rpi/bcm2709-rpi-2-b.dts
+	"	1	0
+
+> ~/develop/LazuriteInstaller/rpi/AWK_WORK_FILES
+	"	1	0
+
+> ~/develop/LazuriteInstaller/aa
+	"	68	23
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2709-rpi-2-b.dts
+	"	87	9
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm4708-luxul-xwc-1000.dts
+	"	1	0
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2708.dtsi
+	"	1	0
+
+> ~/develop/LazuriteInstaller/aaaa
+	"	5	0
+	^	5	1
+	.	5	0
+	+	1	17
+	+	3	11
+	+	1	15
+	+	3	0
+	+	5	0
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2710-rpi-3-b.dts
+	"	8	1
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2835-rpi-b-rev2.dts
+	"	1	0
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2708_common.dtsi
+	"	1	0
+
+> ~/linux-c2a1d975537fcac01da80ce34f10bc491620a64e/arch/arm/boot/dts/bcm2835.dtsi
+	"	23	1
+
+> ~/driver/LazGem/lib/LazGem/version.rb
+	"	1	0
+
+> ~/driver/LazGem/lib/LazGem/ioctl.rb
+	"	144	36
+	.	145	0
+	+	15	25
+	+	147	0
+	+	148	0
+	+	148	0
+	+	148	0
+	+	143	10
+	+	144	42
+	+	143	10
+	+	15	15
+	+	145	27
+	+	144	42
+	+	145	29
+	+	144	45
+	+	145	0
+	+	145	12
+	+	145	0
+	+	145	19
+	+	144	43
+	+	144	7
+	+	144	32
+	+	144	11
+	+	144	7
+	+	144	0
+	+	144	0
+	+	144	46
+	+	145	32
+	+	144	0
+	+	144	25
+	+	145	0
+	+	145	27
+	+	144	21
+	+	145	16
+	+	144	42
+	+	144	23
+	+	344	0
+	+	144	32
+	+	144	46
+	+	144	0
+	+	144	0
+	+	144	0
+	+	144	55
+	+	144	0
+	+	144	0
+	+	144	0
+	+	144	0
+	+	144	0
+	+	145	0
+	+	144	43
+	+	145	0
+	+	144	0
+	+	145	0
+	+	145	0
+	+	145	0
+	+	144	0
+	+	145	0
+	n	144	36
+
+> ~/driver/LazGem/lib/LazGem/device.rb
+	"	1	0
+	.	41	0
+	+	22	0
+	+	22	6
+	+	22	23
+	+	22	0
+	+	22	0
+	+	41	6
+	+	41	4
+	+	41	0
+	+	41	15
+	+	41	0
+	+	41	42
+	+	41	0
+	+	41	0
+	+	41	49
+	+	39	0
+	+	38	2
+	+	39	0
+	+	41	0
+
+> ~/driver/LazGem/lib/LazGem.rb
+	"	1	0
+
+> ~/driver/LazDriver/CTI/core/ml7396.c
+	"	713	22
+
+> ~/driver/LazDriver/CTI/core/ml7396.h
+	"	1	0
+
+> ~/driver/LazDriver/drv-lazurite.c
+	"	16	16
+	^	227	8
+	.	226	0
+	+	96	91
+	+	96	91
+	+	97	0
+	+	96	89
+	+	237	0
+	+	225	0
+	+	225	0
+	+	225	0
+	+	228	0
+	+	237	48
+	+	237	0
+	+	237	0
+	+	237	0
+	+	221	43
+	+	229	51
+	+	237	0
+	+	237	0
+	+	235	0
+	+	237	0
+	+	235	52
+	+	237	44
+	+	238	38
+	+	96	119
+	+	235	64
+	+	223	43
+	+	232	43
+	+	235	36
+	+	96	29
+	+	226	6
+	+	238	5
+	+	226	5
+	+	237	7
+	+	226	6
+	+	225	33
+	+	96	83
+	+	226	5
+	+	237	9
+	+	238	5
+	+	236	0
+	+	238	6
+	+	236	5
+	+	235	39
+	+	238	0
+	+	228	40
+	+	226	0
+	+	226	0
+	+	228	0
+	+	226	0
+	+	96	117
+	+	235	57
+	+	96	82
+	+	96	117
+	+	235	69
+	+	228	27
+	+	221	0
+	+	225	0
+	+	220	41
+	+	228	45
+	+	229	44
+	+	232	39
+	+	235	34
+	+	228	0
+	+	229	0
+	+	227	0
+	+	236	59
+	+	232	0
+	+	231	58
+	+	235	34
+	+	236	66
+	+	232	36
+	+	236	58
+	+	224	41
+	+	232	32
+	+	235	41
+	+	236	0
+	+	232	33
+	+	235	0
+	+	232	52
+	+	235	0
+	+	236	0
+	+	235	54
+	+	236	0
+	+	235	55
+	+	236	93
+	+	232	36
+	+	228	43
+	+	222	41
+	+	225	25
+	+	227	34
+	+	229	36
+	+	231	31
+	+	236	64
+	+	230	44
+	+	232	0
+	+	234	0
+	+	228	0
+	+	226	40
+	+	233	76
+	+	226	7
+	+	226	0
+	n	73	15
+
+> ~/driver/LazGem/sample/aes_rx.rb
+	"	30	11
+	^	27	52
+	.	27	37
+	+	26	86
+	+	28	14
+	+	28	0
+	+	28	24
+	+	28	0
+	+	28	0
+	+	31	0
+	+	26	86
+	+	28	20
+	+	28	0
+	+	28	0
+	+	28	0
+	+	31	0
+	+	31	0
+	+	32	0
+	+	35	0
+	+	32	0
+	+	31	0
+	+	31	0
+	+	31	0
+	+	34	0
+	+	33	0
+	+	7	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+	+	6	0
+	+	30	14
+	+	28	0
+	+	26	0
+	+	28	28
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	26	0
+	+	28	0
+	+	28	0
+	+	28	2
+	+	30	17
+	+	28	0
+	+	28	12
+	+	29	8
+	+	28	14
+	+	28	9
+	+	28	12
+	+	29	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	11
+	+	28	0
+	+	28	0
+	+	28	0
+	+	28	21
+	+	28	0
+	+	28	14
+	+	28	4
+	+	28	0
+	+	30	14
+	+	26	0
+	+	27	39
+	+	33	0
+	+	27	47
+	+	26	76
+	+	27	37
+
+> /tmp/VczVQd_drv-lazurite.c
+	"	1	0
+
+> /tmp/POBtvb_ioctl.rb
+	"	16	0
+
+> ~/driver/LazGem/sample/sample_rx.rb
+	"	26	11
+	^	26	12
+	.	26	11
+	+	26	11
+
+> /tmp/80uhgc_sample_rx.rb
+	"	1	0
+
+> /tmp/I2rRtd_subghz_api.h
+	"	1	0
+
+> ~/driver/LazDriver/subghz_api.h
+	"	1	0
+	^	133	14
+	.	133	4
+	+	131	2
+	+	131	0
+	+	133	4
+
+> /tmp/W8Sz1c_subghz_api.c
+	"	1	0
+
+> /tmp/2R38rc_lazdriver.mod.c
+	"	1	0
+
+> ~/driver/LazDriver/lazdriver.mod.c
+	"	1	0
+
+> /tmp/xtmBYd_drv-lazurite.h
+	"	1	0
+
+> ~/driver/LazDriver/drv-lazurite.h
+	"	1	0
+	^	31	27
+	.	31	30
+	+	31	30
+
+> /tmp/8qCt5b_drv-lazurite.c
+	"	75	24
+
+> /tmp/cZkmjc_drv-lazurite.c
+	"	216	3
+
+> ~/driver/LazGem/sample/sample_tx.rb
+	"	1	0
+
+> ~/driver/LazGem/test/test_helper.rb
+	"	1	0
+
+> ~/driver/LazGem/test/LazGem_test.rb
+	"	1	0
+
+> ~/driver/LazGem/Gemfile
+	"	1	0
+
+> /usr/share/vim/vim74/doc/help.txt
+	"	1	0
+
+> ~/driver/LazGem/CODE_OF_CONDUCT.md
+	"	1	0
+
+> ~/driver/LazDriver/common-lzpi.h
+	"	1	0
+
+> /tmp/pgCJAd_subghz_api.c
+	"	1	0
+
+> ~/.gitconfig
+	"	4	0
+	^	4	0
+	.	4	0
+	+	5	0
+	+	4	0
+
+> ~/driver/LazDriver/Makefile
+	"	2	127
+	^	2	128
+	.	2	127
+	+	2	127
+
+> ~/driver/LazDriver/ml7396_hwif_hal.c
+	"	1	0
+
+> ~/driver/LazDriver/CTI/api/bp3596.c
+	"	425	52
+	^	425	53
+	.	425	52
+	+	42	0
+	+	42	0
+	+	42	0
+	+	42	0
+	+	27	0
+	+	30	0
+	+	28	0
+	+	30	0
+	+	425	52
+
+> ~/driver/LazDriver/CTI/api/aes.h
+	"	60	101
+	^	58	2
+	.	60	101
+	+	24	0
+	+	29	0
+	+	26	0
+	+	27	0
+	+	59	101
+	+	60	101
+	+	27	0
+	+	57	1
+	+	58	0
+	+	59	101
+	+	60	101
+
+> ~/driver/LazDriver/CTI/api/bp3596.h
+	"	1	0
+
+> ~/log.txt
+	"	1	0
+
+> ~/node_modules/node-red-contrib-lazurite/lazurite.html
+	"	160	30
+
+> /etc/wpa_supplicant.conf
+	"	1	0
+
+> ~/sudo
+	"	1	0
+
+> /etc/inter
+	"	1	0
+
+> ~/wpa-conf
+	"	1	0
+
+> ~/test920j/io_test/iotest.rb
+	"	30	0
+	^	76	5
+	.	14	0
+	+	18	0
+	+	17	0
+	+	90	17
+	+	14	0
+	+	14	0
+
+> ~/test920j/rf_test/load_prog.rb
+	"	1	0
+
+> ~/test920j/rf_test/boot_wr.rb
+	"	1	0
+	^	16	1
+	.	16	0
+	+	16	0
+	+	16	0
+
+> ~/test920j/rf_test/menu.rb
+	"	5	0
+	^	4	1
+	.	2	0
+	+	6	0
+	+	6	0
+	+	5	0
+	+	4	0
+	+	2	0
+
+> /etc/network/if-up.d/mountnfs
+	"	126	20
+
+> /etc/init.d/networking
+	"	3	32
+
+> /etc/inetd.conf
+	"	1	0
+
+> ~/test920j/.git/COMMIT_EDITMSG
+	"	1	0
+
+> ~/test920j/rf_test/socket.rb
+	"	1	0
+
+> ~/test920j/rf_test/Rftp.rb
+	"	4	0
+
+> ~/test920j/top_menu.rb
+	"	9	0
+	^	9	0
+	.	9	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	14	9
+	+	14	51
+	+	14	51
+	+	14	52
+	+	14	0
+	+	14	0
+	+	14	0
+	+	14	1
+	+	14	1
+	+	14	1
+	+	14	1
+	+	14	1
+	+	14	0
+	+	5	57
+	+	14	20
+	+	5	58
+	+	14	25
+	+	5	8
+	+	5	31
+	+	5	28
+	+	14	15
+	+	14	0
+	+	5	41
+	+	14	0
+	+	14	8
+	+	14	0
+	+	5	18
+	+	5	8
+	+	5	24
+	+	14	12
+	+	4	20
+	+	5	8
+	+	5	8
+	+	14	0
+	+	5	31
+	+	5	31
+	+	4	18
+	+	5	31
+	+	5	8
+	+	5	8
+	+	5	20
+	+	5	35
+	+	9	0
+	+	5	14
+	+	5	0
+	+	5	11
+	+	5	0
+	+	5	0
+	+	4	0
+	+	4	0
+	+	5	12
+	+	4	18
+	+	5	0
+	+	5	19
+	+	4	27
+	+	5	0
+	+	5	21
+	+	14	0
+	+	14	0
+	+	5	0
+	+	3	0
+	+	4	10
+	+	5	0
+	+	5	21
+	+	5	21
+	+	14	0
+	+	3	0
+	+	3	0
+	+	5	0
+	+	10	14
+	+	11	12
+	+	12	1
+	+	13	17
+	+	10	12
+	+	6	5
+	+	7	25
+	+	6	31
+	+	7	17
+	+	6	20
+	+	7	25
+	+	7	4
+	+	6	0
+	+	7	0
+	+	8	24
+	+	12	22
+	+	6	0
+	+	7	2
+	+	12	20
+	+	13	15
+	+	9	0
+	+	3	0
+	+	9	0
+
+> ~/test920j/rf_test/option-window
+	"	142	17
+	.	924	0
+	+	1847	0
+	+	925	0
+	+	925	0
+	+	925	1
+	+	8	0
+	+	924	0
+
+> ~/test920j/rf_test/get_addr.rb
+	"	5	0
+	^	7	32
+	.	7	25
+	+	5	0
+	+	24	2
+	+	5	9
+	+	7	0
+	+	6	12
+	+	23	6
+	+	24	0
+	+	6	0
+	+	7	0
+	+	23	3
+	+	13	7
+	+	12	0
+	+	7	0
+	+	9	0
+	+	10	0
+	+	11	0
+	+	14	0
+	+	15	0
+	+	16	0
+	+	17	0
+	+	18	0
+	+	19	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	7	25
+
+> ~/test920j/rf_test/subghz.rb
+	"	7	0
+	^	19	23
+	.	19	34
+	+	22	0
+	+	21	3
+	+	23	3
+	+	22	0
+	+	18	3
+	+	21	3
+	+	22	3
+	+	23	3
+	+	18	3
+	+	18	0
+	+	22	3
+	+	23	3
+	+	18	3
+	+	21	3
+	+	18	3
+	+	21	3
+	+	18	3
+	+	21	3
+	+	18	3
+	+	21	4
+	+	18	3
+	+	22	3
+	+	21	3
+	+	22	4
+	+	18	3
+	+	18	0
+	+	23	3
+	+	22	3
+	+	23	3
+	+	21	0
+	+	18	29
+	+	18	26
+	+	18	7
+	+	21	0
+	+	18	0
+	+	16	0
+	+	21	6
+	+	18	7
+	+	18	28
+	+	30	23
+	+	30	6
+	+	30	26
+	+	30	0
+	+	30	27
+	+	30	26
+	+	30	49
+	+	30	10
+	+	30	0
+	+	30	0
+	+	18	0
+	+	21	0
+	+	18	4
+	+	30	29
+	+	18	4
+	+	21	4
+	+	7	4
+	+	8	4
+	+	7	4
+	+	8	4
+	+	18	4
+	+	21	4
+	+	30	27
+	+	30	0
+	+	30	28
+	+	31	36
+	+	42	0
+	+	50	0
+	+	57	0
+	+	66	0
+	+	65	0
+	+	66	0
+	+	74	0
+	+	83	0
+	+	91	36
+	+	99	36
+	+	30	18
+	+	18	1
+	+	30	0
+	+	7	4
+	+	8	5
+	+	18	4
+	+	21	4
+	+	31	35
+	+	41	0
+	+	42	0
+	+	49	0
+	+	50	0
+	+	57	0
+	+	65	0
+	+	74	0
+	+	74	0
+	+	83	0
+	+	91	0
+	+	99	35
+	+	18	1
+	+	17	30
+	+	20	4
+	+	18	7
+	+	18	0
+	+	19	34
+
+> ~/test920j/rf_test/e2p_base.rb
+	"	27	0
+	^	65	7
+	.	7	0
+	+	5	0
+	+	66	2
+	+	7	0
+	+	6	15
+	+	65	6
+	+	7	0
+
+> ~/test920j/rf_test/cal.rb
+	"	96	0
+	^	28	8
+	.	28	7
+	+	6	0
+	+	7	7
+	+	8	0
+	+	199	0
+	+	44	0
+	+	80	0
+	+	79	3
+	+	82	0
+	+	43	0
+	+	139	0
+	+	82	0
+	+	81	3
+	+	138	3
+	+	8	7
+	+	28	7
+
+> ~/test920j/rf_test/cw.rb
+	"	1	0
+	^	33	8
+	.	33	7
+	+	6	0
+	+	7	6
+	+	8	0
+	+	63	2
+	+	62	6
+	+	13	7
+	+	33	7
+
+> ~/test920j/rf_test/snd.rb
+	"	1	0
+	^	49	8
+	.	29	0
+	+	6	0
+	+	7	7
+	+	8	0
+	+	92	2
+	+	91	6
+	+	34	7
+	+	49	0
+	+	29	0
+
+> ~/test920j/rf_test/cca.rb
+	"	21	33
+	^	107	7
+	.	107	6
+	+	6	0
+	+	7	7
+	+	8	0
+	+	108	2
+	+	107	6
+
+> ~/test920j/rf_test/set_addr.rb
+	"	1	0
+	^	6	8
+	.	6	7
+	+	5	0
+	+	7	0
+	+	33	2
+	+	33	0
+	+	32	6
+	+	6	7
+
+> ~/test920j/rf_test/command.rb
+	"	1	0
+	^	17	7
+	.	17	6
+	+	5	0
+	+	6	11
+	+	7	0
+	+	18	2
+	+	17	6
+
+> ~/test920j/option-window
+	"	1	0
+	.	924	0
+	+	924	0
