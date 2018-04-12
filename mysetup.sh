@@ -64,10 +64,10 @@ esac
 echo -n "### Do you set vim ? [y/n] "
 read ANSWER
 if [ "$ANSWER" = "y" ]; then
-#   sudo apt-get update
-#   sudo apt-get install vim
-#   sudo apt-get install vim-gtk
-#   git clone git://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
+    sudo apt-get update
+    sudo apt-get install vim
+    sudo apt-get install vim-gtk
+    git clone git://github.com/Shougo/neobundle.vim ~/.vim/bundle/neobundle.vim
     curl https://raw.githubusercontent.com/saito253/MyRaspSet/master/.viminfo > ~/.viminfo
     curl https://raw.githubusercontent.com/saito253/MyRaspSet/master/.vimrc > ~/.vimrc
 fi
@@ -86,4 +86,13 @@ case $ANSWER in
   "y" | "y" )
   vim ~/.bashrc
   source ~/.bashrc
+esac
+
+
+echo -n "### Do you make ssh-keygen ? [y/n] "
+read ANSWER
+case $ANSWER in
+  "y" | "y" )
+        ssh-keygen
+        cat ~/.ssh/id_rsa.pub
 esac
