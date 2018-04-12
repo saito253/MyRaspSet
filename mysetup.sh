@@ -87,12 +87,3 @@ case $ANSWER in
   vim ~/.bashrc
   source ~/.bashrc
 esac
-
-
-echo -n "### Do you make ssh-keygen ? [y/n] "
-read ANSWER
-case $ANSWER in
-  "y" | "y" )
-        ssh-keygen
-        cat ~/.ssh/id_rsa.pub
-esac
