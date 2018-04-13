@@ -73,12 +73,23 @@ if [ "$ANSWER" = "y" ]; then
 fi
 
 
+echo -n "### Do you set vtreeexplorer ? [y/n] "
+read ANSWER
+if [ "$ANSWER" = "y" ]; then
+    wget http://www.vim.org/scripts/download_script.php?src_id=8097
+    tar xvf vtreeexplorer-1.28.tar.gz
+    cp plugin/vtreeexplorer.vim .vim/plugin/
+    cp doc/vtreeexplorer.txt .vim/doc/
+fi
+
+
 echo -n "### Do you set desk top pager ? [y/n] "
 read ANSWER
 case $ANSWER in
   "y" | "y" )
 	sudo apt-get install obconf
 esac
+
 
 echo -n "### Do you modify .bsshrc ? [y/n] "
 read ANSWER
