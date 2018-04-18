@@ -77,9 +77,10 @@ echo -n "### Do you set vtreeexplorer ? [y/n] "
 read ANSWER
 if [ "$ANSWER" = "y" ]; then
     wget http://www.vim.org/scripts/download_script.php?src_id=8097
-    tar xvf vtreeexplorer-1.28.tar.gz
-    cp plugin/vtreeexplorer.vim .vim/plugin/
-    cp doc/vtreeexplorer.txt .vim/doc/
+    tar xvf download_script.php?src_id=8097
+    mv -r plugin ~/.vim/.
+    mv -r doc ~/.vim/.
+    rm download_script.php?src_id=8097
 fi
 
 
