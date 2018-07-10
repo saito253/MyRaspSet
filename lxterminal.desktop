@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=LXTerminal_custom
+Exec=lxterminal -e bash /home/pi/test920j/startup.sh
+Icon=lxterminal
+Type=Application
+Terminal=true
